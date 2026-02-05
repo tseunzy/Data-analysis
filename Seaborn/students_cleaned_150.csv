@@ -1,0 +1,151 @@
+StudentID,Name,Gender,Age,ClassLevel,Country,YearsCode,MathScore,EnglishScore,AttendancePct,Date,Email,Phone
+115082,Fatima Yusuf,,16.0,SS3,USA,7.0,65,54,85,2021-05-05 06:00:00,fatima.yusuf1654@school.edu,07050937730
+86795,Ada Ogundare,MALE,17.0,JSS1,UK,19.0,77,72,76,22/08/2021 03:00 AM,ada.ogundare1907@school.edu,08484889590
+49227,Efe Olatunji,FEMALE,11.0,SS1,Nigeria,18.0,58,34,75,2021-07-08 03:00:00,efe.olatunji2306@school.edu,09828475957
+16514,David Okafor,FEMALE,17.0,JSS1,Kenya,6.0,73,36,73,not_a_date,david.okafor8059@mail.com,07264516767
+119749,Bola Nwosu,FEMALE,11.0,SS1,Nigeria,19.0,64,55,91,2020-10-15 14:00:00,bola.nwosu3192@example.com,07726106960
+84130,Bola Bello,FEMALE,15.0,JSS3,UK,20.0,63,59,73,08-25-2019,bola.bello9726@gmail.com,08920161874
+70465,Ngozi Ibrahim,MALE,10.0,SS3,Canada,3.0,56,49,68,2019-04-23 20:00:00,ngozi.ibrahim9675@mail.com,08829850928
+29248,Fatima Adebayo,MALE,15.0,JSS2,Nigeria,0.0,51,60,89,,fatima.adebayo9007@school.edu,07573013623
+61093,Ada Yusuf,FEMALE,11.0,JSS3,Canada,0.0,38,79,100,29/10/2020 09:00 PM,ada.yusuf7135@school.edu,07090920850
+71435,Bola Bello,FEMALE,16.0,SS2,UK,11.0,43,73,73,2020-02-14 10:00:00,bola.bello7638@gmail.com,07357266742
+11658,Yusuf Adekunle,,13.0,JSS3,Nigeria,17.0,54,77,73,2019-07-22 12:00:00,yusuf.adekunle3301@example.com,08878182916
+52977,Ibrahim Okafor,MALE,19.0,JSS2,Nigeria,4.0,52,56,90,14/07/2019 11:00 AM,ibrahim.okafor1963@gmail.com,09589781467
+119993,Tunde Adekunle,FEMALE,16.0,SS2,Nigeria,0.0,79,44,91,2021-02-16 10:00:00,tunde.adekunle7887@gmail.com,07871351029
+57270,Seyi Ajayi,MALE,12.0,SS1,USA,2.0,76,40,100,2021-03-28 23:00:00,seyi.ajayi3724@gmail.com,08420450766
+15670,Seun Eke,MALE,15.0,JSS2,UK,14.0,78,37,94,05-12-2021,seun.eke8838@gmail.com,09750703626
+106434,Seun Yusuf,MALE,16.0,SS3,,0.0,45,64,100,02-16-2021,seun.yusuf9999@school.edu,09516230622
+68093,Bola Ajayi,FEMALE,18.0,SS3,Nigeria,1.0,60,41,92,2020-01-29 09:00:00,bola.ajayi3745@school.edu,09490758619
+106313,Bola Ogundare,FEMALE,19.0,JSS2,UK,3.0,100,56,74,2019-10-20 05:00:00,bola.ogundare281@school.edu,08845360661
+41822,Kemi Ogunleye,MALE,15.0,JSS3,Nigeria,13.0,56,46,89,25/09/2021 02:00 PM,kemi.ogunleye4152@school.edu,07066868847
+14889,David Ogunleye,,12.0,SS2,UK,19.0,49,44,80,2021-05-20 21:00:00,david.ogunleye1384@school.edu,09682479092abc
+49125,Ibrahim Yusuf,MALE,19.0,SS1,USA,1.0,89,68,90,12-16-2021,ibrahim.yusuf5038@mail.com,07290578144
+101979,Ibrahim Ogundare,MALE,10.0,SS3,Kenya,6.0,64,53,77,2020-02-24 20:00:00,ibrahim.ogundare1084@gmail.com,09124993545
+21600,Yusuf Yusuf,MALE,15.0,JSS1,Ghana,1.0,36,64,84,23/12/2020 05:00 PM,yusuf.yusuf121@mail.com,08069528925
+31969,Chidi Ogundare,FEMALE,16.0,JSS3,Ghana,0.0,70,48,89,2019-07-18 07:00:00,chidi.ogundare4436@school.edu,09741897156
+2533,Seun Kennedy,MALE,16.0,SS3,Kenya,5.0,65,67,94,not_a_date,seun.kennedy6927@gmail.com,09762555152
+63568,Ngozi Bello,,10.0,JSS1,Nigeria,14.0,58,55,77,08/09/2021 04:00 AM,ngozi.bello6308@mail.com,09214047526
+81800,Ibrahim Ajayi,MALE,16.0,SS2,USA,12.0,69,52,77,28/08/2020 07:00 PM,ibrahim.ajayi6108@gmail.com,08297965545
+22662,Ibrahim Okafor,FEMALE,19.0,SS1,Ghana,0.0,50,77,86,,ibrahim.okafor1010@school.edu,07624319576
+23496,Seun Ogunleye,MALE,16.0,JSS3,USA,0.0,63,94,100,not_a_date,seun.ogunleye8052@example.com,07746844490
+43835,Seyi Yusuf,FEMALE,17.0,JSS3,Canada,5.0,54,78,75,2019-08-02 08:00:00,seyi.yusuf2128@mail.com,09396910251
+46237,Seun Adebayo,FEMALE,15.0,JSS1,USA,0.0,40,70,100,2019-10-01 03:00:00,seun.adebayo7273@gmail.com,09752086884
+50988,Ngozi Adekunle,FEMALE,13.0,JSS1,UK,7.0,54,41,79,2020-07-09 08:00:00,ngozi.adekunle2642@school.edu,07047070256
+101400,Ngozi Ajayi,FEMALE,10.0,SS3,South Africa,10.0,54,73,80,2019-02-23 23:00:00,ngozi.ajayi9706@gmail.com,08026292948
+4511,Ada Bello,MALE,13.0,SS2,South Africa,12.0,57,37,76,08-04-2019,ada.bello7221@mail.com,08796946781
+58616,Ngozi Ogundare,MALE,11.0,SS3,Egypt,16.0,49,54,92,2021-01-26 06:00:00,ngozi.ogundare92@example.com,07306445087
+89704,Ibrahim Ogundare,FEMALE,16.0,JSS2,Nigeria,20.0,46,75,97,2021-06-06 01:00:00,ibrahim.ogundare7895@mail.com,09169947888
+65398,Kemi Bello,FEMALE,12.0,SS3,UK,0.0,67,30,65,2020-02-23 08:00:00,kemi.bello2671@school.edu,07765771601
+42475,Efe Yusuf,FEMALE,13.0,SS3,Nigeria,17.0,73,39,100,31/01/2020 01:00 AM,efe.yusuf4274@example.com,07401513262
+96969,Amina Ogunleye,FEMALE,12.0,SS3,Nigeria,15.0,60,95,90,02/02/2019 02:00 AM,amina.ogunleye9092@gmail.com,09400083805
+68283,Ngozi Ibrahim,FEMALE,19.0,JSS3,Ghana,5.0,72,83,65,13/01/2019 05:00 AM,ngozi.ibrahim7698@mail.com,09840549173
+22995,Tunde Bello,FEMALE,19.0,JSS1,Nigeria,0.0,48,78,92,2021-11-19 12:00:00,tunde.bello8681@school.edu,09857561598
+6580,Bola Bello,FEMALE,16.0,SS1,South Africa,7.0,77,83,76,2019-03-24 09:00:00,bola.bello2723@gmail.com,08264961185
+39372,Seyi Okafor,MALE,16.0,SS1,Nigeria,12.0,67,65,64,2021-06-09 17:00:00,seyi.okafor973@school.edu,08724128214
+35139,Kemi Ibrahim,MALE,18.0,SS2,Nigeria,12.0,55,66,96,21/01/2021 05:00 AM,kemi.ibrahim4233@example.com,07017025249
+16099,Ada Ajayi,FEMALE,19.0,SS1,South Africa,15.0,52,41,83,21/04/2021 04:00 AM,ada.ajayi172@gmail.com,09540280596
+28718,Kemi Okafor,,17.0,JSS2,Canada,7.0,52,81,98,,kemi.okafor7016@example.com,079098254
+69577,Seyi Nwosu,FEMALE,10.0,JSS2,Kenya,10.0,74,59,92,,seyi.nwosu9938@gmail.com,07433244771
+100274,Ada Ajayi,MALE,16.0,JSS2,USA,9.0,62,29,94,30/11/2020 06:00 PM,ada.ajayi6900@example.com,07575133313
+26847,Seyi Yusuf,FEMALE,11.0,SS1,USA,0.0,38,59,87,14/10/2020 05:00 AM,seyi.yusuf3100@school.edu,09536917879
+93412,Ada Ogundare,MALE,11.0,SS3,Ghana,10.0,59,58,72,2020-02-27 13:00:00,ada.ogundare6767@example.com,08258195584
+17373,Fatima Ajayi,MALE,13.0,,Nigeria,5.0,37,67,96,05-22-2020,fatima.ajayi1204@example.com,095854432
+52112,Seyi Adekunle,MALE,15.0,JSS2,Canada,20.0,62,73,81,2019-05-12 05:00:00,seyi.adekunle124@example.com,07982751554
+59472,Ada Nwosu,MALE,17.0,JSS2,Egypt,7.0,60,58,96,01/06/2020 04:00 PM,ada.nwosu1424@school.edu,09914134861
+89605,Seun Nwosu,FEMALE,17.0,JSS3,Nigeria,16.0,65,58,80,not_a_date,seun.nwosu4567@school.edu,07703847017
+102865,David Ibrahim,FEMALE,19.0,JSS1,Kenya,14.0,79,57,95,2019-10-03 18:00:00,david.ibrahim8976@gmail.com,09347610545
+8853,Chidi Adekunle,MALE,17.0,JSS3,USA,14.0,60,72,97,2020-04-03 00:00:00,chidi.adekunle2464@example.com,09316020100
+86416,Tunde Ogundare,FEMALE,14.0,SS2,UK,15.0,61,59,67,08/06/2019 11:00 PM,tunde.ogundare4484@school.edu,07882955638
+34429,Fatima Ajayi,MALE,12.0,JSS3,Nigeria,13.0,56,57,89,not_a_date,fatima.ajayi6575@school.edu,07581019667
+112055,Fatima Ibrahim,FEMALE,15.0,SS3,Nigeria,4.0,66,66,63,09-15-2021,fatima.ibrahim5681@gmail.com,08910381014
+42491,Amina Okafor,FEMALE,12.0,JSS2,South Africa,18.0,42,69,63,09/10/2021 03:00 PM,amina.okafor4790@school.edu,09586715320
+36357,Tunde Yusuf,FEMALE,13.0,SS1,Nigeria,2.0,61,59,86,2019-05-15 10:00:00,tunde.yusuf222@example.com,07827609894
+110572,Dayo Nwosu,MALE,17.0,SS2,USA,9.0,69,38,77,2019-05-09 04:00:00,dayo.nwosu6077@gmail.com,08929117779
+24787,Chidi Yusuf,FEMALE,19.0,SS1,UK,17.0,53,73,82,2019-05-27 02:00:00,chidi.yusuf28@mail.com,08766502602
+52912,Ibrahim Eke,MALE,12.0,SS3,South Africa,2.0,78,49,68,2021-08-18 21:00:00,ibrahim.eke9720@gmail.com,09815722335
+77411,Seun Ajayi,,14.0,JSS3,USA,7.0,90,66,94,03-29-2019,seun.ajayi8110@school.edu,08648939027
+49901,Seyi Ibrahim,FEMALE,15.0,JSS2,Nigeria,7.0,70,71,73,05-28-2021,seyi.ibrahim571@gmail.com,07695611711
+119375,Chidi Ajayi,FEMALE,11.0,SS2,Canada,5.0,64,30,74,11-17-2019,chidi.ajayi7146@example.com,08474935927
+99172,Ada Ogunleye,MALE,14.0,SS3,Nigeria,5.0,69,68,90,,ada.ogunleye2355@example.com,08834475199
+66308,Seyi Ajayi,MALE,19.0,SS3,Nigeria,12.0,70,60,90,2021-10-27 20:00:00,seyi.ajayi4957@gmail.com,08351576073
+17214,Yusuf Bello,MALE,16.0,JSS2,South Africa,6.0,75,78,80,2019-07-15 02:00:00,yusuf.bello6598@mail.com,09503151162
+103487,Bola Olatunji,FEMALE,10.0,JSS2,UK,17.0,58,64,80,2020-12-04 20:00:00,bola.olatunji8837@gmail.com,08018517372
+13805,Seyi Adekunle,FEMALE,16.0,JSS3,UK,8.0,81,30,100,19/07/2021 08:00 PM,seyi.adekunle2433@mail.com,07336767300
+103871,Chidi Bello,MALE,18.0,SS3,Kenya,9.0,74,86,78,2019-03-14 18:00:00,chidi.bello8990@mail.com,09279848940
+111495,Seyi Nwosu,MALE,18.0,JSS2,Nigeria,0.0,64,60,71,2020-03-07 03:00:00,seyi.nwosu3125@mail.com,08304085097
+51224,Ngozi Adebayo,FEMALE,10.0,JSS3,Nigeria,1.0,63,44,78,17/08/2019 08:00 AM,ngozi.adebayo1884@mail.com,07293037597
+21162,Ngozi Ogundare,MALE,13.0,JSS3,USA,0.0,72,57,63,2021-02-10 11:00:00,ngozi.ogundare2719@example.com,07251350063
+7133,David Ogunleye,FEMALE,17.0,SS2,Nigeria,11.0,42,57,79,09/03/2021 04:00 AM,david.ogunleye9350@mail.com,07650769441
+15532,David Ibrahim,FEMALE,18.0,JSS3,UK,18.0,80,53,68,06-01-2020,david.ibrahim2588@school.edu,07619837676
+67816,Ngozi Olatunji,MALE,17.0,,Nigeria,13.0,78,33,67,,ngozi.olatunji7777@school.edu,09117761753
+97712,Yusuf Okafor,MALE,11.0,SS1,Ghana,5.0,42,64,94,07-02-2020,yusuf.okafor4940@mail.com,07987290148
+59188,Bola Okafor,FEMALE,13.0,JSS2,Egypt,7.0,58,34,100,10-26-2021,bola.okafor6523@school.edu,07203489817
+7138,Amina Yusuf,FEMALE,12.0,SS3,Kenya,13.0,66,75,84,2020-07-10 20:00:00,amina.yusuf1334@gmail.com,07075776834
+82531,Tunde Adebayo,FEMALE,15.0,SS1,South Africa,20.0,68,59,73,2021-01-04 22:00:00,tunde.adebayo2118@gmail.com,07971931764
+32452,Ibrahim Olatunji,FEMALE,15.0,JSS1,USA,7.0,40,100,89,11-28-2021,ibrahim.olatunji1898@gmail.com,08544339669
+119457,Efe Yusuf,FEMALE,14.0,SS2,Nigeria,0.0,70,54,85,2021-07-23 16:00:00,efe.yusuf1597@example.com,07003463383
+62699,Seyi Okafor,MALE,11.0,,Ghana,6.0,74,41,62,31/01/2019 09:00 AM,seyi.okafor7156@school.edu,07021345089
+100556,Seyi Ogundare,,16.0,JSS3,UK,16.0,59,50,73,not_a_date,seyi.ogundare2182@gmail.com,07092495458
+81096,David Adekunle,FEMALE,13.0,JSS1,Kenya,15.0,85,71,87,03-18-2020,david.adekunle3256@school.edu,07537796089
+28140,Yusuf Kennedy,MALE,13.0,SS3,Canada,20.0,36,69,77,2019-01-29 03:00:00,yusuf.kennedy6214@example.com,08240828196
+12117,Seun Kennedy,FEMALE,10.0,SS2,Nigeria,16.0,83,81,85,2020-03-27 18:00:00,seun.kennedy4675@mail.com,08775766869
+5217,Seun Olatunji,FEMALE,18.0,SS1,Kenya,4.0,44,24,79,2019-11-29 07:00:00,seun.olatunji4639@school.edu,09382891445
+75381,Bola Nwosu,MALE,15.0,SS1,Kenya,2.0,63,23,95,05-21-2021,bola.nwosu4476@gmail.com,07561522194
+22590,Tunde Yusuf,,10.0,,USA,20.0,60,50,79,2019-11-26 19:00:00,tunde.yusuf42@mail.com,09191827322
+42922,Chidi Ogundare,MALE,11.0,SS3,USA,17.0,67,58,70,19/11/2021 10:00 PM,chidi.ogundare5297@gmail.com,08344810857
+104992,Ada Ogunleye,FEMALE,10.0,JSS2,Nigeria,3.0,71,25,77,2021-11-28 10:00:00,ada.ogunleye8291@school.edu,09731965921
+119555,Ibrahim Kennedy,FEMALE,16.0,JSS1,USA,19.0,71,66,93,2019-04-07 07:00:00,ibrahim.kennedy9456@school.edu,09040988234
+36905,Chidi Nwosu,,17.0,JSS2,Nigeria,9.0,58,41,91,2019-12-27 20:00:00,chidi.nwosu3852@gmail.com,08477059080
+21055,Seyi Bello,FEMALE,11.0,SS3,Nigeria,5.0,63,44,84,,seyi.bello1632@mail.com,08046009276
+99244,Amina Okafor,FEMALE,17.0,SS2,South Africa,2.0,73,84,76,2021-08-14 08:00:00,amina.okafor900@gmail.com,07448988306
+84919,Bola Kennedy,MALE,10.0,JSS2,Ghana,15.0,72,45,63,06/02/2021 08:00 PM,bola.kennedy892@example.com,07844594017
+83731,Bola Bello,FEMALE,18.0,JSS3,Egypt,4.0,64,82,78,2020-09-16 18:00:00,bola.bello7568@mail.com,09787075865
+54036,Kemi Ogunleye,MALE,16.0,SS3,Nigeria,2.0,44,55,73,2020-04-08 01:00:00,kemi.ogunleye9261@gmail.com,09037737983
+78008,Efe Kennedy,FEMALE,17.0,SS3,Nigeria,7.0,83,86,80,not_a_date,efe.kennedy5787@gmail.com,09886110544
+22256,Fatima Kennedy,MALE,14.0,JSS2,Nigeria,8.0,58,66,92,05-13-2021,fatima.kennedy3352@mail.com,07615475130
+65831,David Eke,MALE,10.0,SS3,UK,6.0,44,35,87,,david.eke6409@mail.com,09683746367
+39229,Yusuf Olatunji,MALE,12.0,JSS2,UK,18.0,47,58,84,2021-10-15 17:00:00,yusuf.olatunji7449@example.com,08139539469
+117861,Seun Ajayi,FEMALE,12.0,JSS3,,0.0,64,60,68,06-06-2021,seun.ajayi3104@example.com,08531415052
+81652,David Eke,FEMALE,11.0,SS1,Kenya,4.0,68,29,84,08/07/2019 03:00 AM,david.eke9711@mail.com,09198452466
+116053,Ibrahim Adekunle,MALE,18.0,JSS2,Nigeria,12.0,76,54,88,15/06/2020 07:00 AM,ibrahim.adekunle6708@gmail.com,09837054893
+87289,Ada Yusuf,MALE,10.0,SS2,Kenya,15.0,53,50,93,2019-09-02 03:00:00,ada.yusuf323@school.edu,07617146956
+105705,Bola Eke,MALE,15.0,JSS1,South Africa,13.0,53,47,86,02-28-2019,bola.eke9307@gmail.com,07700004525
+506,Kemi Ajayi,MALE,14.0,SS3,USA,11.0,54,72,81,12/07/2020 12:00 PM,kemi.ajayi7989@school.edu,07115138035
+109818,Seun Ogundare,FEMALE,13.0,SS3,Nigeria,0.0,50,85,78,2019-05-08 17:00:00,seun.ogundare9942@school.edu,08078237495
+10673,Fatima Adebayo,MALE,17.0,JSS3,,8.0,80,52,90,2021-12-02 15:00:00,fatima.adebayo7301@example.com,09472961977
+71244,Ibrahim Yusuf,FEMALE,10.0,JSS1,UK,7.0,54,39,72,2021-03-26 01:00:00,ibrahim.yusuf5765@example.com,08707163501
+49887,Efe Ajayi,MALE,14.0,JSS3,Nigeria,19.0,74,30,84,12/04/2019 02:00 AM,efe.ajayi880@mail.com,09624237921
+99126,Ada Okafor,FEMALE,10.0,JSS3,UK,17.0,55,65,82,2021-06-09 06:00:00,ada.okafor1532@example.com,09427587208
+24707,Seun Kennedy,MALE,17.0,JSS3,UK,9.0,69,37,98,02-17-2021,seun.kennedy9885@gmail.com,09821477988
+60413,Tunde Nwosu,MALE,16.0,,Nigeria,6.0,82,49,83,2019-08-21 23:00:00,tunde.nwosu7701@gmail.com,08479698918
+101988,Efe Bello,FEMALE,18.0,SS1,Nigeria,20.0,68,71,89,2021-09-22 16:00:00,efe.bello8831@mail.com,08384722716
+73141,Tunde Okafor,MALE,12.0,JSS2,USA,20.0,96,23,85,,tunde.okafor974@mail.com,09770189098
+11662,Yusuf Bello,,10.0,SS3,Nigeria,13.0,66,84,80,,yusuf.bello2533@gmail.com,07450104201
+108544,Kemi Ajayi,FEMALE,18.0,,USA,4.0,75,58,61,24/01/2020 11:00 PM,kemi.ajayi6592@mail.com,09555634193
+40988,Amina Nwosu,FEMALE,10.0,SS3,Ghana,18.0,66,86,79,09-10-2021,amina.nwosu2695@example.com,08088378987
+100946,Seyi Ogundare,FEMALE,19.0,SS3,USA,14.0,52,59,82,2021-02-14 14:00:00,seyi.ogundare1074@gmail.com,07554217866
+114453,Seun Eke,FEMALE,13.0,JSS2,Nigeria,12.0,67,43,65,2019-04-10 04:00:00,seun.eke775@school.edu,09602192552
+62006,David Ibrahim,FEMALE,12.0,SS2,Egypt,20.0,70,57,97,2020-12-02 15:00:00,david.ibrahim1318@example.com,09162754414
+35620,Chidi Kennedy,MALE,13.0,JSS3,Nigeria,20.0,73,85,83,2020-11-27 21:00:00,chidi.kennedy9420@school.edu,09971097802
+93942,Amina Ajayi,MALE,16.0,SS2,Nigeria,2.0,43,45,100,2021-10-28 10:00:00,amina.ajayi6400@example.com,07322419613
+86559,Ada Okafor,MALE,16.0,SS2,UK,1.0,72,57,81,02-11-2019,ada.okafor1363@example.com,08297917377
+805,David Ogundare,FEMALE,11.0,JSS3,Nigeria,4.0,59,44,84,11-09-2020,david.ogundare8061@example.com,09919622108
+49846,David Ogunleye,MALE,14.0,JSS3,Canada,18.0,59,40,86,22/04/2021 04:00 PM,david.ogunleye6715@school.edu,08476323690
+77934,Fatima Olatunji,,11.0,SS1,Ghana,2.0,77,67,79,2020-07-05 21:00:00,fatima.olatunji2533@mail.com,07428057192
+3916,Chidi Eke,FEMALE,12.0,JSS1,USA,6.0,64,75,73,03-31-2020,chidi.eke9940@school.edu,07891467247
+65348,Ibrahim Ajayi,MALE,15.0,JSS1,USA,14.0,41,69,76,06/04/2020 01:00 AM,ibrahim.ajayi3710@mail.com,09072997453
+39005,Ada Eke,MALE,13.0,JSS1,USA,17.0,38,50,97,2021-01-25 03:00:00,ada.eke1442@gmail.com,07267572174
+68739,Fatima Yusuf,MALE,18.0,,Nigeria,17.0,87,90,73,18/12/2020 04:00 PM,fatima.yusuf6955@school.edu,09535336613
+73345,Kemi Olatunji,FEMALE,13.0,JSS2,Canada,0.0,78,75,64,08-15-2021,kemi.olatunji8905@school.edu,07401403982
+37879,Ibrahim Bello,FEMALE,15.0,SS2,Canada,8.0,58,37,83,22/10/2021 07:00 AM,ibrahim.bello4074@school.edu,08378367679
+33295,Ada Adekunle,MALE,13.0,JSS1,UK,0.0,52,62,82,2021-02-02 23:00:00,ada.adekunle8527@gmail.com,09634422515
+110306,Dayo Ogundare,MALE,14.0,,Ghana,17.0,38,64,73,2020-06-22 19:00:00,dayo.ogundare7298@gmail.com,09912369786
+115682,Ngozi Ajayi,FEMALE,14.0,JSS1,USA,2.0,56,75,83,26/02/2019 01:00 PM,ngozi.ajayi2983@school.edu,09657186071
+4625,Dayo Olatunji,,17.0,JSS2,Nigeria,10.0,74,48,100,2019-11-13 22:00:00,dayo.olatunji8513@school.edu,09534124265
+58380,Ngozi Okafor,FEMALE,11.0,JSS2,Egypt,18.0,57,68,100,06/05/2021 03:00 PM,ngozi.okafor3515@gmail.com,07934071171
+40443,Ibrahim Adebayo,FEMALE,10.0,SS1,UK,6.0,48,58,84,2019-09-06 15:00:00,ibrahim.adebayo9375@example.com,09379252647
+82665,Amina Bello,MALE,18.0,,Canada,19.0,86,51,80,17/01/2019 02:00 PM,amina.bello7027@example.com,09705163087
+26194,Seyi Ajayi,MALE,17.0,SS3,Nigeria,16.0,63,46,56,31/05/2020 04:00 AM,seyi.ajayi1866@mail.com,08677142083
+104674,Bola Eke,FEMALE,14.0,SS3,Ghana,3.0,40,70,71,2021-09-05 12:00:00,bola.eke6511@school.edu,08713217662
+114266,Fatima Bello,FEMALE,13.0,SS3,Ghana,17.0,59,52,84,2020-10-06 19:00:00,fatima.bello2106@example.com,09793363956
+40992,Bola Ogunleye,FEMALE,11.0,SS1,USA,15.0,62,41,82,,bola.ogunleye203@example.com,07143905082
